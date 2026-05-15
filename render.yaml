@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: ai-vaidya
+    env: python
+    rootDir: .
+    buildCommand: |
+      cd frontend
+      npm install
+      npm run build
+      cd ..
+      rm -rf backend/frontend_dist
+      mkdir -p backend/frontend_dist
+      cp -r frontend/dist/* backend/frontend_dist/
+      cd backend
+      pip install -r requirements.txt
+    startCommand: |
+      cd backend
+      python rag/ingest.py
+      uvicorn main:app --host 0.0.0.0 --port $PORT

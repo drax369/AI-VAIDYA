@@ -1,7 +1,17 @@
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE = "";
+
+async function handleResponse(response, errorMessage) {
+  if (!response.ok) {
+    const errorText = await response.text();
+    console.error(errorMessage, errorText);
+    throw new Error(errorMessage);
+  }
+
+  return response.json();
+}
 
 export async function askRag(query, language = "English") {
-  const response = await fetch(`${API_BASE_URL}/rag/ask`, {
+  const response = await fetch(`${API_BASE}/rag/ask`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -9,11 +19,7 @@ export async function askRag(query, language = "English") {
     body: JSON.stringify({ query, language }),
   });
 
-  if (!response.ok) {
-    throw new Error("Failed to ask AI VAIDYA");
-  }
-
-  return response.json();
+  return handleResponse(response, "Failed to ask AI VAIDYA");
 }
 
 export async function analyzeHybridVision(mode, imageFile) {
@@ -21,30 +27,22 @@ export async function analyzeHybridVision(mode, imageFile) {
   formData.append("mode", mode);
   formData.append("image", imageFile);
 
-  const response = await fetch(`${API_BASE_URL}/vision/hybrid-analyze`, {
+  const response = await fetch(`${API_BASE}/vision/hybrid-analyze`, {
     method: "POST",
     body: formData,
   });
 
-  if (!response.ok) {
-    throw new Error("Failed to analyze image");
-  }
-
-  return response.json();
+  return handleResponse(response, "Failed to analyze image");
 }
 
 export async function getPrakritiQuestions() {
-  const response = await fetch(`${API_BASE_URL}/prakriti/questions`);
+  const response = await fetch(`${API_BASE}/prakriti/questions`);
 
-  if (!response.ok) {
-    throw new Error("Failed to load Prakriti questions");
-  }
-
-  return response.json();
+  return handleResponse(response, "Failed to load Prakriti questions");
 }
 
 export async function analyzePrakriti(answers) {
-  const response = await fetch(`${API_BASE_URL}/prakriti/analyze`, {
+  const response = await fetch(`${API_BASE}/prakriti/analyze`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -52,15 +50,11 @@ export async function analyzePrakriti(answers) {
     body: JSON.stringify({ answers }),
   });
 
-  if (!response.ok) {
-    throw new Error("Failed to analyze Prakriti");
-  }
-
-  return response.json();
+  return handleResponse(response, "Failed to analyze Prakriti");
 }
 
 export async function generateDinacharya(prakriti_type) {
-  const response = await fetch(`${API_BASE_URL}/dinacharya/generate`, {
+  const response = await fetch(`${API_BASE}/dinacharya/generate`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -68,15 +62,11 @@ export async function generateDinacharya(prakriti_type) {
     body: JSON.stringify({ prakriti_type }),
   });
 
-  if (!response.ok) {
-    throw new Error("Failed to generate Dinacharya");
-  }
-
-  return response.json();
+  return handleResponse(response, "Failed to generate Dinacharya");
 }
 
 export async function recommendRecipe(prakriti_type, condition) {
-  const response = await fetch(`${API_BASE_URL}/recipes/recommend`, {
+  const response = await fetch(`${API_BASE}/recipes/recommend`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -84,9 +74,5 @@ export async function recommendRecipe(prakriti_type, condition) {
     body: JSON.stringify({ prakriti_type, condition }),
   });
 
-  if (!response.ok) {
-    throw new Error("Failed to recommend recipe");
-  }
-
-  return response.json();
+  return handleResponse(response, "Failed to recommend recipe");
 }

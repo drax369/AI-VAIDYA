@@ -11,6 +11,9 @@ from modules.vision import VisionMode, analyze_image_with_gemini
 from rag.generator import generate_rag_answer
 from modules.clip_vision import classify_image_clip
 from modules.hybrid_vision import analyze_hybrid_vision
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
+from pathlib import Path
 
 app = FastAPI(
     title="AI VAIDYA Backend",
@@ -149,3 +152,16 @@ async def hybrid_vision_analyze(
         "model_stack": hybrid_result["model_stack"],
         "safety_note": hybrid_result["safety_note"]
     }
+FRONTEND_DIST = Path(__file__).parent / "frontend_dist"
+
+if FRONTEND_DIST.exists():
+    app.mount(
+        "/assets",
+        StaticFiles(directory=FRONTEND_DIST / "assets"),
+        name="assets",
+    )
+
+    @app.get("/{full_path:path}")
+    async def serve_react_app(full_path: str):
+        index_file = FRONTEND_DIST / "index.html"
+        return FileResponse(index_file)
