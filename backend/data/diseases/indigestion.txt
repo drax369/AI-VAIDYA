@@ -1,0 +1,331 @@
+Indigestion / Ajirna
+====================
+
+Document Type: Condition
+Project: AI VAIDYA Ayurveda RAG Knowledge Base
+Purpose: Structured educational content for hybrid RAG, semantic search, keyword search, and grounded Q&A.
+Safety Rule: This content is educational wellness information only. It is not medical diagnosis, prescription, or emergency treatment.
+
+1. High-Level Summary
+---------------------
+Indigestion is classically linked with disturbed Agni, heaviness, gas, bloating, acidity, and food timing.
+
+2. Dosha Interpretation
+------------------------
+may involve Vata gas, Pitta acidity, or Kapha heaviness
+
+3. Common Traditional Uses
+---------------------------
+- ginger tea
+- jeera water
+- ajwain
+- light meals
+- regular meal timing
+- warm food
+
+4. Safety and Contraindications
+--------------------------------
+- severe pain needs medical care
+- persistent acidity needs diagnosis
+- avoid overuse of spices
+
+5. RAG Instructions
+-------------------
+- Use this file when the user asks about Indigestion / Ajirna.
+- Use this file when the user query matches the category: Condition.
+- Always answer with educational caution.
+- Never invent dosage or guaranteed cures.
+- Mention consultation for severe, persistent, unclear, or emergency symptoms.
+
+6. Expanded 300-Line Knowledge Section
+----------------------------------------
+1. Ayurvedic overview: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+2. Sanskrit terminology: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+3. Rasa taste: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+4. Guna quality: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+5. Virya potency: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+6. Vipaka effect: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+7. Dosha effect: Retrieval hint: connect the query to 'ginger tea' only when the retrieved context supports it.
+8. Agni digestion: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+9. Ama concept: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+10. Prakriti relevance: Safety reminder for Indigestion / Ajirna: severe pain needs medical care. AI VAIDYA should state this as educational guidance only.
+11. Vikriti relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+12. seasonal relevance: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+13. diet guidance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+14. foods to prefer: Retrieval hint: connect the query to 'jeera water' only when the retrieved context supports it.
+15. foods to avoid: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+16. lifestyle support: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+17. daily routine connection: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+18. sleep connection: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+19. stress connection: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+20. skin relevance: Safety reminder for Indigestion / Ajirna: persistent acidity needs diagnosis. AI VAIDYA should state this as educational guidance only.
+21. respiratory relevance: Retrieval hint: connect the query to 'ajwain' only when the retrieved context supports it.
+22. digestive relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+23. mind-body relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+24. preparation method: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+25. home practice: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+26. professional consultation trigger: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+27. image-analysis caution: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+28. voice-output caution: Retrieval hint: connect the query to 'light meals' only when the retrieved context supports it.
+29. multilingual response note: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+30. RAG retrieval clue: Safety reminder for Indigestion / Ajirna: avoid overuse of spices. AI VAIDYA should state this as educational guidance only.
+31. hybrid keyword clue: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+32. semantic search clue: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+33. safety disclaimer: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+34. contraindication note: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+35. child safety: Retrieval hint: connect the query to 'regular meal timing' only when the retrieved context supports it.
+36. pregnancy safety: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+37. elderly safety: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+38. chronic illness caution: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+39. emergency warning: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+40. source citation behavior: Safety reminder for Indigestion / Ajirna: severe pain needs medical care. AI VAIDYA should state this as educational guidance only.
+41. Ayurvedic overview: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+42. Sanskrit terminology: Retrieval hint: connect the query to 'warm food' only when the retrieved context supports it.
+43. Rasa taste: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+44. Guna quality: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+45. Virya potency: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+46. Vipaka effect: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+47. Dosha effect: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+48. Agni digestion: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+49. Ama concept: Retrieval hint: connect the query to 'ginger tea' only when the retrieved context supports it.
+50. Prakriti relevance: Safety reminder for Indigestion / Ajirna: persistent acidity needs diagnosis. AI VAIDYA should state this as educational guidance only.
+51. Vikriti relevance: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+52. seasonal relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+53. diet guidance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+54. foods to prefer: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+55. foods to avoid: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+56. lifestyle support: Retrieval hint: connect the query to 'jeera water' only when the retrieved context supports it.
+57. daily routine connection: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+58. sleep connection: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+59. stress connection: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+60. skin relevance: Safety reminder for Indigestion / Ajirna: avoid overuse of spices. AI VAIDYA should state this as educational guidance only.
+61. respiratory relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+62. digestive relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+63. mind-body relevance: Retrieval hint: connect the query to 'ajwain' only when the retrieved context supports it.
+64. preparation method: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+65. home practice: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+66. professional consultation trigger: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+67. image-analysis caution: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+68. voice-output caution: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+69. multilingual response note: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+70. RAG retrieval clue: Safety reminder for Indigestion / Ajirna: severe pain needs medical care. AI VAIDYA should state this as educational guidance only.
+71. hybrid keyword clue: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+72. semantic search clue: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+73. safety disclaimer: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+74. contraindication note: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+75. child safety: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+76. pregnancy safety: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+77. elderly safety: Retrieval hint: connect the query to 'regular meal timing' only when the retrieved context supports it.
+78. chronic illness caution: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+79. emergency warning: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+80. source citation behavior: Safety reminder for Indigestion / Ajirna: persistent acidity needs diagnosis. AI VAIDYA should state this as educational guidance only.
+81. Ayurvedic overview: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+82. Sanskrit terminology: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+83. Rasa taste: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+84. Guna quality: Retrieval hint: connect the query to 'warm food' only when the retrieved context supports it.
+85. Virya potency: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+86. Vipaka effect: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+87. Dosha effect: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+88. Agni digestion: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+89. Ama concept: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+90. Prakriti relevance: Safety reminder for Indigestion / Ajirna: avoid overuse of spices. AI VAIDYA should state this as educational guidance only.
+91. Vikriti relevance: Retrieval hint: connect the query to 'ginger tea' only when the retrieved context supports it.
+92. seasonal relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+93. diet guidance: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+94. foods to prefer: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+95. foods to avoid: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+96. lifestyle support: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+97. daily routine connection: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+98. sleep connection: Retrieval hint: connect the query to 'jeera water' only when the retrieved context supports it.
+99. stress connection: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+100. skin relevance: Safety reminder for Indigestion / Ajirna: severe pain needs medical care. AI VAIDYA should state this as educational guidance only.
+101. respiratory relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+102. digestive relevance: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+103. mind-body relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+104. preparation method: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+105. home practice: Retrieval hint: connect the query to 'ajwain' only when the retrieved context supports it.
+106. professional consultation trigger: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+107. image-analysis caution: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+108. voice-output caution: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+109. multilingual response note: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+110. RAG retrieval clue: Safety reminder for Indigestion / Ajirna: persistent acidity needs diagnosis. AI VAIDYA should state this as educational guidance only.
+111. hybrid keyword clue: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+112. semantic search clue: Retrieval hint: connect the query to 'light meals' only when the retrieved context supports it.
+113. safety disclaimer: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+114. contraindication note: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+115. child safety: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+116. pregnancy safety: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+117. elderly safety: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+118. chronic illness caution: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+119. emergency warning: Retrieval hint: connect the query to 'regular meal timing' only when the retrieved context supports it.
+120. source citation behavior: Safety reminder for Indigestion / Ajirna: avoid overuse of spices. AI VAIDYA should state this as educational guidance only.
+121. Ayurvedic overview: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+122. Sanskrit terminology: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+123. Rasa taste: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+124. Guna quality: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+125. Virya potency: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+126. Vipaka effect: Retrieval hint: connect the query to 'warm food' only when the retrieved context supports it.
+127. Dosha effect: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+128. Agni digestion: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+129. Ama concept: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+130. Prakriti relevance: Safety reminder for Indigestion / Ajirna: severe pain needs medical care. AI VAIDYA should state this as educational guidance only.
+131. Vikriti relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+132. seasonal relevance: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+133. diet guidance: Retrieval hint: connect the query to 'ginger tea' only when the retrieved context supports it.
+134. foods to prefer: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+135. foods to avoid: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+136. lifestyle support: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+137. daily routine connection: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+138. sleep connection: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+139. stress connection: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+140. skin relevance: Safety reminder for Indigestion / Ajirna: persistent acidity needs diagnosis. AI VAIDYA should state this as educational guidance only.
+141. respiratory relevance: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+142. digestive relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+143. mind-body relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+144. preparation method: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+145. home practice: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+146. professional consultation trigger: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+147. image-analysis caution: Retrieval hint: connect the query to 'ajwain' only when the retrieved context supports it.
+148. voice-output caution: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+149. multilingual response note: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+150. RAG retrieval clue: Safety reminder for Indigestion / Ajirna: avoid overuse of spices. AI VAIDYA should state this as educational guidance only.
+151. hybrid keyword clue: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+152. semantic search clue: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+153. safety disclaimer: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+154. contraindication note: Retrieval hint: connect the query to 'light meals' only when the retrieved context supports it.
+155. child safety: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+156. pregnancy safety: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+157. elderly safety: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+158. chronic illness caution: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+159. emergency warning: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+160. source citation behavior: Safety reminder for Indigestion / Ajirna: severe pain needs medical care. AI VAIDYA should state this as educational guidance only.
+161. Ayurvedic overview: Retrieval hint: connect the query to 'regular meal timing' only when the retrieved context supports it.
+162. Sanskrit terminology: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+163. Rasa taste: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+164. Guna quality: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+165. Virya potency: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+166. Vipaka effect: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+167. Dosha effect: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+168. Agni digestion: Retrieval hint: connect the query to 'warm food' only when the retrieved context supports it.
+169. Ama concept: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+170. Prakriti relevance: Safety reminder for Indigestion / Ajirna: persistent acidity needs diagnosis. AI VAIDYA should state this as educational guidance only.
+171. Vikriti relevance: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+172. seasonal relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+173. diet guidance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+174. foods to prefer: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+175. foods to avoid: Retrieval hint: connect the query to 'ginger tea' only when the retrieved context supports it.
+176. lifestyle support: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+177. daily routine connection: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+178. sleep connection: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+179. stress connection: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+180. skin relevance: Safety reminder for Indigestion / Ajirna: avoid overuse of spices. AI VAIDYA should state this as educational guidance only.
+181. respiratory relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+182. digestive relevance: Retrieval hint: connect the query to 'jeera water' only when the retrieved context supports it.
+183. mind-body relevance: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+184. preparation method: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+185. home practice: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+186. professional consultation trigger: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+187. image-analysis caution: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+188. voice-output caution: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+189. multilingual response note: Retrieval hint: connect the query to 'ajwain' only when the retrieved context supports it.
+190. RAG retrieval clue: Safety reminder for Indigestion / Ajirna: severe pain needs medical care. AI VAIDYA should state this as educational guidance only.
+191. hybrid keyword clue: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+192. semantic search clue: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+193. safety disclaimer: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+194. contraindication note: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+195. child safety: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+196. pregnancy safety: Retrieval hint: connect the query to 'light meals' only when the retrieved context supports it.
+197. elderly safety: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+198. chronic illness caution: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+199. emergency warning: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+200. source citation behavior: Safety reminder for Indigestion / Ajirna: persistent acidity needs diagnosis. AI VAIDYA should state this as educational guidance only.
+201. Ayurvedic overview: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+202. Sanskrit terminology: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+203. Rasa taste: Retrieval hint: connect the query to 'regular meal timing' only when the retrieved context supports it.
+204. Guna quality: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+205. Virya potency: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+206. Vipaka effect: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+207. Dosha effect: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+208. Agni digestion: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+209. Ama concept: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+210. Prakriti relevance: Safety reminder for Indigestion / Ajirna: avoid overuse of spices. AI VAIDYA should state this as educational guidance only.
+211. Vikriti relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+212. seasonal relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+213. diet guidance: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+214. foods to prefer: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+215. foods to avoid: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+216. lifestyle support: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+217. daily routine connection: Retrieval hint: connect the query to 'ginger tea' only when the retrieved context supports it.
+218. sleep connection: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+219. stress connection: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+220. skin relevance: Safety reminder for Indigestion / Ajirna: severe pain needs medical care. AI VAIDYA should state this as educational guidance only.
+221. respiratory relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+222. digestive relevance: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+223. mind-body relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+224. preparation method: Retrieval hint: connect the query to 'jeera water' only when the retrieved context supports it.
+225. home practice: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+226. professional consultation trigger: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+227. image-analysis caution: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+228. voice-output caution: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+229. multilingual response note: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+230. RAG retrieval clue: Safety reminder for Indigestion / Ajirna: persistent acidity needs diagnosis. AI VAIDYA should state this as educational guidance only.
+231. hybrid keyword clue: Retrieval hint: connect the query to 'ajwain' only when the retrieved context supports it.
+232. semantic search clue: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+233. safety disclaimer: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+234. contraindication note: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+235. child safety: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+236. pregnancy safety: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+237. elderly safety: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+238. chronic illness caution: Retrieval hint: connect the query to 'light meals' only when the retrieved context supports it.
+239. emergency warning: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+240. source citation behavior: Safety reminder for Indigestion / Ajirna: avoid overuse of spices. AI VAIDYA should state this as educational guidance only.
+241. Ayurvedic overview: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+242. Sanskrit terminology: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+243. Rasa taste: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+244. Guna quality: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+245. Virya potency: Retrieval hint: connect the query to 'regular meal timing' only when the retrieved context supports it.
+246. Vipaka effect: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+247. Dosha effect: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+248. Agni digestion: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+249. Ama concept: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+250. Prakriti relevance: Safety reminder for Indigestion / Ajirna: severe pain needs medical care. AI VAIDYA should state this as educational guidance only.
+251. Vikriti relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+252. seasonal relevance: Retrieval hint: connect the query to 'warm food' only when the retrieved context supports it.
+253. diet guidance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+254. foods to prefer: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+255. foods to avoid: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+256. lifestyle support: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+257. daily routine connection: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+258. sleep connection: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+259. stress connection: Retrieval hint: connect the query to 'ginger tea' only when the retrieved context supports it.
+260. skin relevance: Safety reminder for Indigestion / Ajirna: persistent acidity needs diagnosis. AI VAIDYA should state this as educational guidance only.
+261. respiratory relevance: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+262. digestive relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+263. mind-body relevance: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+264. preparation method: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+265. home practice: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+266. professional consultation trigger: Retrieval hint: connect the query to 'jeera water' only when the retrieved context supports it.
+267. image-analysis caution: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+268. voice-output caution: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+269. multilingual response note: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+270. RAG retrieval clue: Safety reminder for Indigestion / Ajirna: avoid overuse of spices. AI VAIDYA should state this as educational guidance only.
+271. hybrid keyword clue: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+272. semantic search clue: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+273. safety disclaimer: Retrieval hint: connect the query to 'ajwain' only when the retrieved context supports it.
+274. contraindication note: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+275. child safety: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+276. pregnancy safety: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+277. elderly safety: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+278. chronic illness caution: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+279. emergency warning: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+280. source citation behavior: Safety reminder for Indigestion / Ajirna: severe pain needs medical care. AI VAIDYA should state this as educational guidance only.
+281. Ayurvedic overview: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+282. Sanskrit terminology: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+283. Rasa taste: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+284. Guna quality: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+285. Virya potency: For user-friendly answers, explain Indigestion / Ajirna in simple language with practical lifestyle context.
+286. Vipaka effect: Indigestion / Ajirna is included in AI VAIDYA as grounded knowledge for careful Ayurveda Q&A and source-based response generation.
+287. Dosha effect: Retrieval hint: connect the query to 'regular meal timing' only when the retrieved context supports it.
+288. Agni digestion: In Ayurveda, interpretation should consider dosha, Agni, routine, season, and individual constitution.
+
+End of file.
